@@ -1,0 +1,11 @@
+C:\Users\caoqu\Documents\Visual Studio 2017\Projects\ConsoleApp\NetCore\bin\Debug\netcoreapp2.0\NetCore.deps.json
+C:\Users\caoqu\Documents\Visual Studio 2017\Projects\ConsoleApp\NetCore\bin\Debug\netcoreapp2.0\NetCore.runtimeconfig.json
+C:\Users\caoqu\Documents\Visual Studio 2017\Projects\ConsoleApp\NetCore\bin\Debug\netcoreapp2.0\NetCore.runtimeconfig.dev.json
+C:\Users\caoqu\Documents\Visual Studio 2017\Projects\ConsoleApp\NetCore\bin\Debug\netcoreapp2.0\NetCore.dll
+C:\Users\caoqu\Documents\Visual Studio 2017\Projects\ConsoleApp\NetCore\obj\Debug\netcoreapp2.0\NetCore.csprojAssemblyReference.cache
+C:\Users\caoqu\Documents\Visual Studio 2017\Projects\ConsoleApp\NetCore\obj\Debug\netcoreapp2.0\NetCore.csproj.CoreCompileInputs.cache
+C:\Users\caoqu\Documents\Visual Studio 2017\Projects\ConsoleApp\NetCore\obj\Debug\netcoreapp2.0\NetCore.AssemblyInfoInputs.cache
+C:\Users\caoqu\Documents\Visual Studio 2017\Projects\ConsoleApp\NetCore\obj\Debug\netcoreapp2.0\NetCore.AssemblyInfo.cs
+C:\Users\caoqu\Documents\Visual Studio 2017\Projects\ConsoleApp\NetCore\bin\Debug\netcoreapp2.0\NetCore.pdb
+C:\Users\caoqu\Documents\Visual Studio 2017\Projects\ConsoleApp\NetCore\obj\Debug\netcoreapp2.0\NetCore.dll
+C:\Users\caoqu\Documents\Visual Studio 2017\Projects\ConsoleApp\NetCore\obj\Debug\netcoreapp2.0\NetCore.pdb
